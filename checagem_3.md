@@ -30,14 +30,14 @@ Todas as atividades devem ser realizadas **somente editando o código**.
 
 # **Atividades**
 
-As atividades estão divididas por nível de dificuldade. O aluno deverá **alterar apenas o código**, sem adicionar ou remover componentes do esquema do simulador.
+
 
 ---
 
 
 
 Modifique o tempo em que cada luz permanece acesa para criar um ciclo mais rápido ou mais lento.
-O aluno deve alterar apenas os valores dos `delay()` para experimentar diferentes ritmos do semáforo.
+Você alterar apenas os valores dos `delay()` para experimentar diferentes ritmos do semáforo.
 
 ---
 
@@ -51,21 +51,21 @@ A lógica deve manter o funcionamento correto, mas invertendo a ordem dos dois c
 
 
 Crie uma fase adicional chamada “atenção piscante”: antes de reiniciar o ciclo, faça **todos os amarelos piscarem 3 vezes**.
-O aluno deve implementar um pequeno laço de repetição para piscar os LEDs amarelos juntos.
+Você deve implementar um pequeno laço de repetição para piscar os LEDs amarelos juntos.
 
 ---
 
 
 
 Reorganize o código de forma que os dados das luzes (quais pinos correspondem a vermelho, amarelo e verde) fiquem agrupados em uma estrutura lógica única, permitindo controlar cada semáforo acessando conjuntos de informações relacionados.
-O aluno deve criar um agrupamento (como um bloco ou conjunto organizado), e ajustar o código para usar essa nova organização.
+Você deve criar um agrupamento (como um bloco ou conjunto organizado), e ajustar o código para usar essa nova organização.
 
 ---
 
 
 
 Faça o sistema percorrer automaticamente uma sequência de estados do semáforo armazenada em um conjunto ordenado de passos. Cada passo deve indicar qual cor fica acesa em cada semáforo e por quanto tempo, e o código deve seguir essa sequência repetidamente.
-O aluno deve criar uma lista/coleção de estados, percorrê-la e acionar os LEDs com base nos valores dessa coleção — sem mencionar diretamente o nome da estrutura de dados.
+Você deve criar uma lista/coleção de estados, percorrê-la e acionar os LEDs com base nos valores dessa coleção — sem mencionar diretamente o nome da estrutura de dados.
 
 
 
@@ -74,7 +74,7 @@ O aluno deve criar uma lista/coleção de estados, percorrê-la e acionar os LED
 
 # **Entrega**
 
-O aluno deverá enviar:
+Você deverá enviar:
 
 ✔ Código `.ino` modificado
 ✔ Prints do funcionamento no Wokwi
