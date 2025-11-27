@@ -9,7 +9,7 @@
 **Link do projeto**: https://wokwi.com/projects/448811467963038721
 ---
 
-## 📘 **Descrição Geral da Atividade**
+## **Descrição Geral da Atividade**
 
 Nesta atividade, você irá trabalhar com lógica sequencial, controle digital e manipulação de valores lidos do hardware utilizando Arduino Uno no simulador **Wokwi**.
 
@@ -20,7 +20,7 @@ Todas as atividades devem ser realizadas **somente editando o código**.
 
 ---
 
-## 📂 **Arquivos Disponíveis**
+## **Arquivos Disponíveis**
 
 * Código-base do semáforo (`semaforo.ino`)
 * Projeto Wokwi configurado para Arduino Uno
@@ -28,15 +28,15 @@ Todas as atividades devem ser realizadas **somente editando o código**.
 
 ---
 
-# 🎯 **Atividades**
+# **Atividades**
 
 As atividades estão divididas por nível de dificuldade. O aluno deverá **alterar apenas o código**, sem adicionar ou remover componentes do esquema do simulador.
 
 ---
 
-## 🟢 **Atividades Fáceis**
 
-### **1️⃣ Classificação do valor do sensor**
+
+### ** Classificação do valor do sensor**
 
 Modifique o código para que, além de mostrar o valor lido de um potenciômetro, o display exiba uma palavra indicando a faixa do valor:
 
@@ -48,7 +48,7 @@ Nenhuma alteração de hardware.
 
 ---
 
-### **2️⃣ Exibição invertida opcional**
+### ** Exibição invertida opcional**
 
 Crie uma variável booleana chamada `invertido`.
 
@@ -63,7 +63,7 @@ A troca deve ser feita **somente alterando a variável no código**.
 ---
 
 
-### **3️⃣ Armazenamento das últimas leituras**
+### ** Armazenamento das últimas leituras**
 
 Armazene as **5 leituras mais recentes** do sensor em um conjunto de posições.
 Em seguida, calcule a **média** dessas leituras e exiba no display.
@@ -73,7 +73,7 @@ Ao chegar ao final, volte para a primeira posição.
 
 ---
 
-### **4️⃣ Detecção de variação brusca**
+### ** Detecção de variação brusca**
 
 Detecte quando a leitura atual aumenta mais de **100 unidades** em relação à leitura anterior.
 
@@ -85,7 +85,7 @@ Guarde a última leitura para comparação na iteração seguinte.
 
 ---
 
-### **5️⃣ Estrutura circular + filtro avançado**
+### ** Estrutura circular + filtro avançado**
 
 Essa atividade possui duas partes:
 
